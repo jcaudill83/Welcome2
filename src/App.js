@@ -9,6 +9,7 @@ import Navigation from "./components/navigation/Navigation";
 import Error from "./components/error/Error";
 import Jeopardy from "./components/jeopardy/Jeopardy";
 
+
 function App() {
   return (
     <div className="App">
